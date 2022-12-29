@@ -1,0 +1,511 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"id": "services.254",
+"geometry": {
+"type": "MultiPoint",
+"coordinates": [
+37.55723481,
+6.01311736
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 31,
+"x": 37.5564282655,
+"y": 6.01180586023,
+"z": 0,
+"code": 77,
+"full_name": "Haile Resort",
+"img": "https://raw.githubusercontent.com/ermyas04/ima/main/haile%20resourt2.jpg",
+"short_name": null,
+"zone": "Gamo",
+"wereda": "Arba Minch",
+"kebele": "Nechi sare",
+"phone_line": "097 429 2929",
+"email": "book@haileresorts.com.hotline:8169",
+"website": "https://www.haileresorts.com",
+"service_ty": "Lodge",
+"owner_name": null,
+"moto": null
+}
+},
+{
+"type": "Feature",
+"id": "services.113",
+"geometry": {
+"type": "MultiPoint",
+"coordinates": [
+36.49452394,
+4.94525332
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 116,
+"x": 36.4937425013,
+"y": 4.94384550057,
+"z": 886,
+"code": 85,
+"full_name": "Paradize Lodje",
+"img": "https://raw.githubusercontent.com/ermyas04/ima/main/paradise-lodge2.jpg",
+"short_name": "",
+"zone": "South Omo",
+"wereda": "Hamer",
+"kebele": "Turmi",
+"phone_line": "+251944720435",
+"email": "info@paradiselodgeethiopia.com",
+"website": "https://www.paradiselodgeethiopia.com",
+"service_ty": "Lodge",
+"owner_name": "",
+"moto": ""
+}
+},
+{
+"type": "Feature",
+"id": "services.27",
+"geometry": {
+"type": "MultiPoint",
+"coordinates": [
+36.04974945,
+4.8023891
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 28,
+"x": 36.0489781678,
+"y": 4.80096808674,
+"z": 363,
+"code": 63,
+"full_name": "Tourist hotel",
+"img": "https://raw.githubusercontent.com/ermyas04/ima/main/tourist%20hotel1.jpg",
+"short_name": "Tourist hotel",
+"zone": "South Omo",
+"wereda": "Dasench",
+"kebele": "Omo Rate",
+"phone_line": "+251468812171",
+"email": "arbaminchtouristhotel@gmail.com",
+"website": "www.arbaminchtouristhotel.com",
+"service_ty": "Hotel",
+"owner_name": null,
+"moto": null
+}
+},
+{
+"type": "Feature",
+"id": "services.167",
+"geometry": {
+"type": "MultiPoint",
+"coordinates": [
+36.5639991,
+5.78535569
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 172,
+"x": 36.5632150415,
+"y": 5.78402253449,
+"z": 1404,
+"code": 110,
+"full_name": "Jinka Hotel",
+"img": "https://raw.githubusercontent.com/ermyas04/ima/main/jinka%20resort%20hotel.jpg",
+"short_name": null,
+"zone": "South Omo",
+"wereda": "Jinka Ketema",
+"kebele": "Mehal Arada",
+"phone_line": "+251467750783",
+"email": "info@jinkahotel.com",
+"website": "www.jinkahotel.com",
+"service_ty": "Hotel",
+"owner_name": null,
+"moto": null
+}
+},
+{
+"type": "Feature",
+"id": "services.258",
+"geometry": {
+"type": "MultiPoint",
+"coordinates": [
+37.55154295,
+6.00481824
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 35,
+"x": 37.5507365536,
+"y": 6.00350599121,
+"z": 0,
+"code": 81,
+"full_name": "Bekele Mola Hotel",
+"img": "https://raw.githubusercontent.com/ermyas04/ima/main/bekele%20molla1.jpg",
+"short_name": null,
+"zone": "Gamo",
+"wereda": "Arba Minch",
+"kebele": "Shecha",
+"phone_line": "+251468810046",
+"email": "info@bekelemollahotels.com",
+"website": "www.bekelemollahotels.com",
+"service_ty": "Hotel",
+"owner_name": "Bekele Molla",
+"moto": null
+}
+},
+{
+"type": "Feature",
+"id": "services.107",
+"geometry": {
+"type": "MultiPoint",
+"coordinates": [
+36.49608937,
+4.9698609
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 110,
+"x": 36.495307872,
+"y": 4.96845527125,
+"z": 917,
+"code": 75,
+"full_name": "Emerland Lodge",
+"img": "https://images.trvl-media.com/hotels/28000000/27250000/27243300/27243272/d38c49df_z.jpg",
+"short_name": null,
+"zone": "South Omo",
+"wereda": "Hamer",
+"kebele": "Turmi",
+"phone_line": "+251116299254",
+"email": "info@evangadilodge.com",
+"website": "www.evangadilodge.com",
+"service_ty": "Lodge",
+"owner_name": null,
+"moto": null
+}
+},
+{
+"type": "Feature",
+"id": "services.262",
+"geometry": {
+"type": "MultiPoint",
+"coordinates": [
+37.54748141,
+5.99820065
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 39,
+"x": 37.5466751096,
+"y": 5.99688780487,
+"z": 0,
+"code": 85,
+"full_name": "Mora Heights Hotel",
+"img": "https://raw.githubusercontent.com/ermyas04/ima/main/mora%20heights.jpg",
+"short_name": null,
+"zone": "Gamo",
+"wereda": "Arba Minch",
+"kebele": "Shecha",
+"phone_line": "+251468812158",
+"email": "moraheightshotel@gmail.com",
+"website": "www.mora-heights-hotel.tophotelsethiopia.com/en/",
+"service_ty": "Hotel",
+"owner_name": null,
+"moto": null
+}
+},
+{
+"type": "Feature",
+"id": "services.446",
+"geometry": {
+"type": "MultiPoint",
+"coordinates": [
+37.57433423,
+6.18234412
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 223,
+"x": 37.5735270549,
+"y": 6.18104768901,
+"z": 2381,
+"code": 10,
+"full_name": "Family Lodge",
+"img": "https://raw.githubusercontent.com/ermyas04/ima/main/familylodge.jpg",
+"short_name": null,
+"zone": "Gamo",
+"wereda": "Chencha",
+"kebele": "Amara and Boko",
+"phone_line": "+251913175853",
+"email": "ermmula@gmail.com",
+"website": "www.familylodge.com",
+"service_ty": "Lodge",
+"owner_name": null,
+"moto": null
+}
+},
+{
+"type": "Feature",
+"id": "services.450",
+"geometry": {
+"type": "MultiPoint",
+"coordinates": [
+37.57123219,
+6.20348854
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 227,
+"x": 37.5704250507,
+"y": 6.20219398542,
+"z": 2503,
+"code": 23,
+"full_name": "Moke Lodge",
+"img": "https://raw.githubusercontent.com/ermyas04/ima/main/moke%20lodge1.jpg",
+"short_name": null,
+"zone": "Gamo",
+"wereda": "Chencha",
+"kebele": "Dorze Hayzo",
+"phone_line": "+251916709533",
+"email": "mekonnenproject@gmail.com",
+"website": "www.linktr.ee/mokelodge",
+"service_ty": "Lodge",
+"owner_name": null,
+"moto": null
+}
+},
+{
+"type": "Feature",
+"id": "services.451",
+"geometry": {
+"type": "MultiPoint",
+"coordinates": [
+37.57300071,
+6.25799846
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 228,
+"x": 37.5721934489,
+"y": 6.25670874991,
+"z": 2732,
+"code": 38,
+"full_name": "Chencha Primary Hospital",
+"img": "https://raw.githubusercontent.com/ermyas04/ima/main/chencha%20hospital.jpg",
+"short_name": null,
+"zone": "Gamo",
+"wereda": "Chencha",
+"kebele": "Gircha 01",
+"phone_line": "+251467760312",
+"email": "info@chenchahsopital.com",
+"website": "www.chenchahsopital.com",
+"service_ty": "Hospital",
+"owner_name": "Government",
+"moto": null
+}
+},
+{
+"type": "Feature",
+"id": "services.32",
+"geometry": {
+"type": "MultiPoint",
+"coordinates": [
+36.04934909,
+4.80961519
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 33,
+"x": 36.0485778096,
+"y": 4.8081948234,
+"z": 378,
+"code": 71,
+"full_name": "Omo Rate Museum",
+"img": "https://raw.githubusercontent.com/ermyas04/ima/main/omo%20rate%20museum1.jpg",
+"short_name": null,
+"zone": "South Omo",
+"wereda": "Dasench",
+"kebele": "Rate",
+"phone_line": "+251467750332",
+"email": "info@omoratemusium.com",
+"website": "www.omoratemusium.com",
+"service_ty": "Museum",
+"owner_name": null,
+"moto": null
+}
+},
+{
+"type": "Feature",
+"id": "services.35",
+"geometry": {
+"type": "MultiPoint",
+"coordinates": [
+36.05157181,
+4.80377027
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 36,
+"x": 36.0508004789,
+"y": 4.80234938462,
+"z": 388,
+"code": 74,
+"full_name": "Dasenech wereda culture and tourism office",
+"img": "https://raw.githubusercontent.com/ermyas04/ima/main/dasenech%20woreda1.jpg",
+"short_name": "Dasenech tourism",
+"zone": "South Omo",
+"wereda": "Dasench",
+"kebele": "Omo Rate",
+"phone_line": "+251911444601",
+"email": "info@dasenechtourism.com",
+"website": "www.dasenechtourism.com",
+"service_ty": "Office",
+"owner_name": null,
+"moto": null
+}
+},
+{
+"type": "Feature",
+"id": "services.448",
+"geometry": {
+"type": "MultiPoint",
+"coordinates": [
+37.57999543,
+6.18065004
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 225,
+"x": 37.5791881337,
+"y": 6.17935347048,
+"z": 2388,
+"code": 7,
+"full_name": "Dorze Lodge",
+"img": "https://raw.githubusercontent.com/ermyas04/ima/main/dorzelodge.jpg",
+"short_name": null,
+"zone": "Gamo",
+"wereda": "Chencha",
+"kebele": "Amara and Boko",
+"phone_line": "+25191 682 5205",
+"email": "info@dorzelodge.com",
+"website": "www.dorzelodge.com",
+"service_ty": "Lodge",
+"owner_name": null,
+"moto": null
+}
+},
+{
+"type": "Feature",
+"id": "services.118",
+"geometry": {
+"type": "MultiPoint",
+"coordinates": [
+36.20181654,
+5.27142594
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 121,
+"x": 36.2010412778,
+"y": 5.27004671641,
+"z": 394,
+"code": 105,
+"full_name": "Lumale Camp site",
+"img": "https://raw.githubusercontent.com/ermyas04/ima/main/lalecampsite.jpg",
+"short_name": "Lale Camp site",
+"zone": "South Omo",
+"wereda": "Hamer",
+"kebele": "Kara",
+"phone_line": "+251930362351",
+"email": "info@lalelodge.com",
+"website": "www.lalelodge.com",
+"service_ty": "Camp Site",
+"owner_name": null,
+"moto": null
+}
+},
+{
+"type": "Feature",
+"id": "services.3",
+"geometry": {
+"type": "MultiPoint",
+"coordinates": [
+36.60437214,
+5.74082265
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 3,
+"x": 36.6035872344,
+"y": 5.73948559864,
+"z": 1417,
+"code": 188,
+"full_name": "W/r Almaz Jima Restaurant",
+"img": "https://raw.githubusercontent.com/ermyas04/ima/main/wr%20almaz%20restaurant.jpg",
+"short_name": null,
+"zone": "South Omo",
+"wereda": "Baka Dawula Ari",
+"kebele": "Arksha",
+"phone_line": "+251913175853",
+"email": "info@almazrestourant.com",
+"website": "www.arbaminch.com",
+"service_ty": "Restaurant",
+"owner_name": "W/r Almaz Jima",
+"moto": null
+}
+},
+{
+"type": "Feature",
+"id": "services.331",
+"geometry": {
+"type": "MultiPoint",
+"coordinates": [
+37.56621586,
+6.02747931
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 108,
+"x": 37.5654090949,
+"y": 6.0261690943,
+"z": 1244,
+"code": 64,
+"full_name": "Yenchesar National Park Office",
+"img": "https://raw.githubusercontent.com/ermyas04/ima/main/nechsar%20park.jpg",
+"short_name": null,
+"zone": "Gamo",
+"wereda": "Arba Minch Zuriya",
+"kebele": null,
+"phone_line": "+251115546808",
+"email": "info@nechsarpark.com",
+"website": "www.nechsarpark.com",
+"service_ty": "Office",
+"owner_name": null,
+"moto": null
+}
+}
+],
+"totalFeatures": 674,
+"numberMatched": 674,
+"numberReturned": 674,
+"timeStamp": "2022-11-12T09:02:48.240Z",
+"crs": {
+"type": "name",
+"properties": {
+"name": "urn:ogc:def:crs:EPSG::4326"
+}
+}
+}
